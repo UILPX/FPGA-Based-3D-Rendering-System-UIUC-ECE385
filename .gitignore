@@ -1,0 +1,8 @@
+﻿# Portfolio repo hygiene
+*.log
+*.jou
+*.pb
+*.tmp
+*.cache
+.DS_Store
+Thumbs.db
